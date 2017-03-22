@@ -1,0 +1,20 @@
+{
+  "name": "ag-training-slides",
+  "description": "Training deck to teach students how to create a simple set of slides for themselves",
+  "main": "index.js",
+  "authors": [
+    "Stacy Goh <stacy.gohys@gmail.com> (http://imstacy.com)"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.0"
+  }
+}
